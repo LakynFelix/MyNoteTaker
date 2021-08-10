@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 My Note-Taker
 
 
@@ -104,7 +104,12 @@ useing an expres.js
 ## Email: Lakynmphotography@Hotmail.com
 
 ## Preview of Project
+![image](https://user-images.githubusercontent.com/84104126/128931524-06d2c556-1da1-4882-aa95-f5d856b43d5e.png)
+![image](https://user-images.githubusercontent.com/84104126/128931544-9499c27f-3b42-4e24-a406-f2db7624f80e.png)
 
+
+## Video 
+https://drive.google.com/file/d/1HaZDhwUdHsb1tSyCtGDwirXs2ucspyAR/view
 
 # License:
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
