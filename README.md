@@ -1,5 +1,5 @@
 
-# MY Note Taker
+# My Note Taker
 # Table of Contents
 * [Description](#descriptionofproject)
 * [Usage](#languages)
@@ -23,6 +23,7 @@ useing an expres.js
 ## GitHub Profile: https://github.com/LakynFelix
 ## GitHub Repo: https://github.com/LakynFelix/MyNoteTaker
 ## Email: Lakynmphotography@Hotmail.com
+## Heroku : https://lakynnotetaker.herokuapp.com/
 
 ## Preview of Project
 ![image](https://user-images.githubusercontent.com/84104126/128931524-06d2c556-1da1-4882-aa95-f5d856b43d5e.png)
@@ -37,4 +38,4 @@ https://drive.google.com/file/d/1HaZDhwUdHsb1tSyCtGDwirXs2ucspyAR/view
 
  # Collaborators:
  NONE
->>>>>>> 1267b3f01e6595b82d9bb7499b2235c30c503442
+
