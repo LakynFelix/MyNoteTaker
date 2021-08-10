@@ -1,26 +1,17 @@
 {
-  "name": "mynotetaker",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LakynFelix/MyNoteTaker.git"
+    "start": "node server.js",
+    "watch": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LakynFelix/MyNoteTaker/issues"
-  },
-  "homepage": "https://github.com/LakynFelix/MyNoteTaker#readme",
-  "devDependencies": {
-    "jest": "^27.0.6"
-  },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
   }
 }
