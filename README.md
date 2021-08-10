@@ -12,8 +12,8 @@
 
 
 # Description:
-created a Note Taker app which allows a client to add , save and delete notes.
-useing an expres.js 
+Created a Note Taker app which allows a client to add , save and delete notes.
+using an expres.js 
 
 # Usage:
   Express.js
